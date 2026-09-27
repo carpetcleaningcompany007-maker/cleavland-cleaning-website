@@ -1,8 +1,8 @@
 :root{
-  --green:#c5d86d;
-  --green-dark:#a9bf44;
-  --navy:#2e294e;
-  --blue:#4197cb;
+  --green:#74c9c7;
+  --green-dark:#2b9b9c;
+  --navy:#17304d;
+  --blue:#df7a45;
   --text:#222;
   --muted:#667085;
   --bg:#f5f6f8;
@@ -25,7 +25,7 @@ img{max-width:100%;display:block}
 .logo-mark:before,.logo-mark:after{display:none}
 
 
-.logo-title{font-size:30px;font-weight:800;line-height:1;color:#16314d;letter-spacing:.2px}
+.logo-title{font-size:30px;font-weight:800;line-height:1;color:#17304d;letter-spacing:.2px}
 .logo-sub{font-size:12px;letter-spacing:1.8px;text-transform:uppercase;color:#667085;margin-top:4px}
 .years{text-align:center}
 .years .num{font-size:52px;color:var(--green-dark);font-weight:800;line-height:.95}
@@ -163,3 +163,4 @@ img{max-width:100%;display:block}
 .map-card h3{margin-top:0;color:var(--navy)}
 .map-card p:last-child{margin-bottom:0}
 @media (max-width:900px){.map-grid{grid-template-columns:1fr}.map-embed iframe{height:360px}}
+
