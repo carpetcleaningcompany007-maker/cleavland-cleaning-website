@@ -164,3 +164,6 @@ img{max-width:100%;display:block}
 .map-card p:last-child{margin-bottom:0}
 @media (max-width:900px){.map-grid{grid-template-columns:1fr}.map-embed iframe{height:360px}}
 
+
+.badge img{width:min(100%,420px);margin:0 auto}.badge{padding:22px;background:#fff}
+
